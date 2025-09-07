@@ -76,12 +76,11 @@ Runs on: [http://localhost:5173](http://localhost:5173)
 
 ### 📸 Screenshots
 
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="screenshots/1.jpg" alt="Screenshot 1" width="200"/>
-  <img src="screenshots/2.jpg" alt="Screenshot 2" width="200"/>
-  <img src="screenshots/3.jpg" alt="Screenshot 3" width="200"/>
-  <img src="screenshots/4.jpg" alt="Screenshot 4" width="200"/>
-  <img src="screenshots/5.jpg" alt="Screenshot 5" width="200"/>
-</div>
+![Screenshot 1](screenshots/1.jpg)  
+![Screenshot 2](screenshots/2.jpg)  
+![Screenshot 3](screenshots/3.jpg)  
+![Screenshot 4](screenshots/4.jpg)  
+![Screenshot 5](screenshots/5.jpg)
+
 
 ---
