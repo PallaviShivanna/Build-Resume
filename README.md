@@ -9,7 +9,7 @@
 🚀 ResumeXpert is a modern resume builder built with **React + Vite + TailwindCSS + Node.js (Express + MongoDB)**.  
 It allows users to create, edit, and manage resumes with different templates and download them as PDFs.
 
-
+---
 
 ## ✨ Features
 - 📝 Create and manage multiple resumes
@@ -21,9 +21,10 @@ It allows users to create, edit, and manage resumes with different templates and
 - 📤 Export resumes to PDF
 - 🔒 User authentication (signup/login)
 
-
+---
 
 ## 🛠️ Tech Stack
+
 **Frontend**
 - React 19 + Vite
 - Tailwind CSS
@@ -38,35 +39,32 @@ It allows users to create, edit, and manage resumes with different templates and
 - Moment.js for date handling
 - React Hot Toast for notifications
 
+---
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
-```sh
+```bash
 git clone https://github.com/your-username/resumexpert.git
 cd BUILDRESUME
 
-### 2️⃣ Backend Setup
+2️⃣ Backend Setup
 cd backend
 npm install
 npm start
 
-Runs on: [http://localhost:400](http://localhost:400)
+Runs on: http://localhost:400
 
-Create a `.env` file in `/backend` with the following:
+Create a .env file in /backend with the following:
 MONGO_URI=your-mongodb-connection-string
 JWT_SECRET=your-secret-key
 
-### 3️⃣ Frontend Setup
+3️⃣ Frontend Setup
 cd frontend
 npm install
 npm run dev
 
 Runs on: http://localhost:5173
 
-### 📸 Screenshots
-Screenshots/1.jpg
-Screenshots/2.jpg
-Screenshots/3.jpg
-Screenshots/4.jpg
-Screenshots/5.jpg
+📸 Screenshots
+<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="screenshots/1.jpg" alt="Screenshot 1" width="200"/> <img src="screenshots/2.jpg" alt="Screenshot 2" width="200"/> <img src="screenshots/3.jpg" alt="Screenshot 3" width="200"/> <img src="screenshots/4.jpg" alt="Screenshot 4" width="200"/> <img src="screenshots/5.jpg" alt="Screenshot 5" width="200"/> </div> ```
