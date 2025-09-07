@@ -1,7 +1,4 @@
-Perfect! Here’s a **fully corrected, ready-to-use README** for your project. You can copy-paste it directly into your `README.md` file:
-
-````markdown
-# ResumeXpert
+### ResumeXpert
 
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7-purple?logo=vite)
@@ -20,7 +17,6 @@ It allows users to create, edit, and manage resumes with different templates and
 - 📊 Resume completion percentage tracker
 - 📂 Save data securely in MongoDB
 - 📱 Responsive design with Tailwind CSS
-- ⚡ Fast development with Vite
 - 📤 Export resumes to PDF
 - 🔒 User authentication (signup/login)
 
@@ -48,19 +44,18 @@ It allows users to create, edit, and manage resumes with different templates and
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/resumexpert.git
+git clone https://github.com/PallaviShivanna/Build-Resume.git
 cd BUILDRESUME
-````
+```
 
 ### 2️⃣ Backend Setup
-
 ```bash
 cd backend
 npm install
 npm start
 ```
 
-Runs on: [http://localhost:400](http://localhost:400)
+Runs on: [http://localhost:4000](http://localhost:4000)
 
 Create a `.env` file in `/backend` with the following:
 
@@ -81,7 +76,7 @@ Runs on: [http://localhost:5173](http://localhost:5173)
 
 ### 📸 Screenshots
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="screenshots/1.jpg" alt="Screenshot 1" width="200"/>
   <img src="screenshots/2.jpg" alt="Screenshot 2" width="200"/>
   <img src="screenshots/3.jpg" alt="Screenshot 3" width="200"/>
