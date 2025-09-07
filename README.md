@@ -76,11 +76,10 @@ Runs on: [http://localhost:5173](http://localhost:5173)
 
 ### 📸 Screenshots
 
-![Screenshot 1](screenshots/1.jpg)  
-![Screenshot 2](screenshots/2.jpg)  
-![Screenshot 3](screenshots/3.jpg)  
-![Screenshot 4](screenshots/4.jpg)  
-![Screenshot 5](screenshots/5.jpg)
-
+![Screenshot 1](Screenshots/1.jpg)
+![Screenshot 2](Screenshots/2.jpg)
+![Screenshot 3](Screenshots/3.jpg)
+![Screenshot 4](Screenshots/4.jpg)
+![Screenshot 5](Screenshots/5.jpg)
 
 ---
